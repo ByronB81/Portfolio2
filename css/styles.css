@@ -1,0 +1,74 @@
+.middle {
+  text-align: center;
+}
+
+.middle h1 {
+    margin-bottom: .3em;
+}
+
+.middle h3 {
+  font-weight: lighter;
+}
+
+.middle-high {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.fancy {
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.light {
+  font-weight:500;
+}
+
+.small {
+  font-size: 13px;
+}
+
+.smirk {
+  text-align: center;
+}
+
+.pad-low {
+  padding-bottom: 8em;
+  padding-top: 5em;
+}
+
+.container {
+  background-color: white;
+}
+
+.well {
+  background-color: deepskyblue;
+  padding-top: .3em;
+}
+
+.panel p {
+  padding-top: 1em;
+  margin-bottom: .2em;
+}
+
+footer {
+  font-style: italic;
+}
+
+img {
+  padding-bottom: 3em;
+}
+
+ol li :not(footer) {
+  font-weight: bold;
+}
+
+body {
+  background-color: darkorange;
+}
+
+
+#justice {
+  text-align: justify;
+  font-size: 13px;
+}
